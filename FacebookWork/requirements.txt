@@ -1,8 +1,5 @@
 moviepy
 edge-tts
 requests
-asyncio
 numpy
 pillow
-
-python main.py
